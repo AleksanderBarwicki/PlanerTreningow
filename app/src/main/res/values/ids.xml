@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvTotalSeries" type="id" />
+    <item name="layoutActionButtons" type="id" />
+    <item name="btnReset" type="id" />
+    <item name="btnNextExercise" type="id" />
+    <item name="layoutCounterRow" type="id" />
+    <item name="btnPlus" type="id" />
+    <item name="tvCurrentSeries" type="id" />
+    <item name="btnMinus" type="id" />
+    <item name="tvExerciseName" type="id" />
+    <item name="ivExerciseImage" type="id" />
+    <item name="btnDrawExercise" type="id" />
+    <item name="ivHeaderImage" type="id" />
+    <item name="tvHeader" type="id" />
+</resources>
